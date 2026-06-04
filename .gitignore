@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Project subfolders
+BE/node_modules/
+FE/node_modules/
+
+# Build output
+FE/dist/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+
+# Logs
+npm-debug.log*
+```
